@@ -48,13 +48,6 @@ Follow these steps to set up the project locally:
 
 ---
 
-### 👨‍💻 About This Project
-
-This e-commerce site was built as a personal project to deepen my understanding of Django and web development. It showcases the core functionality of a real-world online store and demonstrates my ability to build scalable, functional web applications from the ground up.
-
-Thank you for checking it out!
-
----
 
 ### 💬 Final Note
 
