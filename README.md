@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce Platform
+# 🛍️ AJAXshop (E-Commerce Platform)
 
 An advanced e-commerce website built using **Python** and the **Django** framework, offering a seamless online shopping experience.
 
